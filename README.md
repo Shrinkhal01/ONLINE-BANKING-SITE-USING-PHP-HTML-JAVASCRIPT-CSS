@@ -47,4 +47,4 @@ The system uses a MySQL database with the following key tables:
 ## Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/bank-management-system.git
+   git clone https://github.com/Shrinkhal01/bank-management-system.git
